@@ -32,3 +32,8 @@ Then edit your `~/.bashrc` to add an alias.
 ```bash
 alias 'rs'='sh PATH_TO_SCRIPT/redslide.sh
 ```
+## To adjust ranges
+Modify low2, and high2, to your choosing.
+```bash
+low2=1500;high2=6500;
+```
